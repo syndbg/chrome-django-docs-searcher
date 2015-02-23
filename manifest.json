@@ -7,12 +7,12 @@
     "description": "Search Django docs faster as a perfectionist",
 
     "icons": {
-        "48": "icon48.png",
-        "128": "icon128.png"
+        "48": "src/imng/icon48.png",
+        "128": "src/img/icon128.png"
     },
 
     "background": {
-        "page": "background.html",
+        "page": "src/templates/background.html",
         "persistent": false
     },
 
