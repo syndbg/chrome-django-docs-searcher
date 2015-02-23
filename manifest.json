@@ -7,7 +7,7 @@
     "description": "Search Django docs faster as a perfectionist",
 
     "icons": {
-        "48": "src/imng/icon48.png",
+        "48": "src/img/icon48.png",
         "128": "src/img/icon128.png"
     },
 
